@@ -1,0 +1,4 @@
+1,Diptiranjan basantia,100.0
+2,Shraddhanjali khatua,99.0
+3,Biku,78.0
+4,Bably,34.0

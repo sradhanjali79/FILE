@@ -1,0 +1,5 @@
+file=open("file2.txt","w")
+file.write("my name is shraddha\n")
+file.write("i am 19 years old")
+print(file)
+file.close()

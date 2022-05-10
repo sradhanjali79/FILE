@@ -1,0 +1,8 @@
+file=open("file4.txt","w")
+file.write("i am shraddha\n")
+file.write("He is biku")
+print(file)
+file=open("file4.txt","r")
+data=file.readline()
+print(data)
+file.close()
